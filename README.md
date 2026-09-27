@@ -7,7 +7,7 @@
 | [CC](cc/)     | Communications and Cybersecurity                       | [notes](cc/theoretical/)   | [notes](cc/practical/)   |
 | [MNIT](mnit/) | Mobile Networks and Internet of Things                 | [notes](mnit/theoretical/) | [notes](mnit/practical/) |
 | [PM](pm/)     | Project Management                                     | [notes](pm/theoretical/)   | [notes](pm/practical/)   |
-| [SA](sa/)     | Software Architecture                                  | [notes](sa/theoretical/)   | [notes](sa/practical/)   |
+| [SI](si/)     | Secure Infrastructures                                 | [notes](sa/theoretical/)   | [notes](sa/practical/)   |
 | [SAII](saii/) | Services and Advanced Infrastructures for the Internet | [notes](saii/theoretical/) | [notes](saii/practical/) |
 
 ## Structure
